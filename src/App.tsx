@@ -1,8 +1,6 @@
-import './App.css'
-import {Items} from "./Items.tsx";
+import "./App.css";
+import { Items } from "./Items.tsx";
 
-const App = () => (
-    <Items/>
-);
+const App = () => <Items />;
 
-export default App
+export default App;

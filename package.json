@@ -14,6 +14,11 @@
     "@emotion/styled": "^11.11.0",
     "@mui/lab": "^5.0.0-alpha.137",
     "@mui/material": "^5.14.1",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

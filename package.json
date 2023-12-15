@@ -15,7 +15,7 @@
     "@mui/lab": "^5.0.0-alpha.156",
     "@mui/material": "^5.15.0",
     "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-react": "^7.33.2",
     "prettier": "^3.1.1",

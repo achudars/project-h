@@ -13,7 +13,7 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mui/lab": "^5.0.0-alpha.170",
-    "@mui/material": "^5.15.16",
+    "@mui/material": "^5.15.17",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsx-a11y": "^6.8.0",

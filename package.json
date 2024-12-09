@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.13.5",
-    "@emotion/styled": "^11.13.5",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
     "@mui/lab": "^5.0.0-alpha.174",
     "@mui/material": "^5.16.9",
     "eslint-config-prettier": "^9.1.0",

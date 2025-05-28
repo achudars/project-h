@@ -1,4 +1,4 @@
-# project-b
+# project-h
 
 # to install and run locally
 

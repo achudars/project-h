@@ -10,3 +10,8 @@
 - Vite
 - React
 - TypeScript + SWC (uses Rust)
+
+# Preview
+
+![Project H Preview](./img.png)
+
